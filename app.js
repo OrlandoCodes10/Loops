@@ -26,3 +26,15 @@
 //     console.log(i);
 // }
 
+const animals = [
+    "Lama",
+    "Lancelet",
+    "Least Weasel",
+    "Leatherback Sea Turtle",
+    "Lemming",
+    "Lemon Shark",
+]
+
+for (let i = 0; i < animals.length; i++) {
+    console.log(i);
+}
